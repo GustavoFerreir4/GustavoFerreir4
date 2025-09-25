@@ -26,10 +26,11 @@ I teach **English** and **Programming** to students around the age of 8 and 18, 
 - JavaScript
 - PHP
 - Python
+- SQL
 
 
 ## 🛠 Skills
-Fullstack Web development with HTML, CSS, JavaScript and PHP.
+Fullstack Web development with HTML, CSS, JavaScript and PHP. Data modeling with SQL and non relational databases.
 Responsiveness, Scalability and Reliability have been topics of study.
 
 Currently studying different frameworks of these languages.
