@@ -27,6 +27,7 @@ I teach **English** and **Programming** to students around the age of 8 and 18, 
 - PHP
 - Python
 - SQL
+- JAVA
 
 
 ## 🛠 Skills
