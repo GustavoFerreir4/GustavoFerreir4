@@ -21,7 +21,7 @@ I teach **English** and **Programming** to students around the age of 8 and 18, 
 
 
 
-## Programming languages I've studied
+## 🤓 Programming languages I've studied
 
 - JavaScript
 - PHP
